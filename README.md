@@ -4,7 +4,7 @@
 This is a repository dedicated solely to bug and issue tracking within Recyclopedia. To use the system:
 * Click on the **Issues** tab above.
 * To submit a new bug report click the **New Issue** button.
-* (Optional: select a template to being your report)
+* (Optional: select a template to begin your report)
 * When filing a report, please provide the general information
   * A fitting title which serves as a succint description of the bug.
   * In the comment section please specify at least the following: Steps to Trigger Bug, Expected Outcome, Actual Outcome (the provided template may prove useful to keep track of this), and Additional Debugging Information such as stack traces and error codes.
