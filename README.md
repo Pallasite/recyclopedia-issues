@@ -6,7 +6,7 @@ This is a repository detected solely to bug and issue tracking within Recycloped
 * To submit a new bug report click the **New Issue** button.
 * When filing a report, please provide the general information
   * A fitting title which serves as a succint description of the bug.
-  * In the comment section please specify: Steps to trigger bug, Expected Outcome, Actual Outcome
+  * In the comment section please specify: Steps to Trigger Bug, Expected Outcome, Actual Outcome
   * Apply pertinent labels
     * one of the following: [bug, enhancement] - depending on type of issue
     * for bugs ONLY one of the following: [minor, standard, critical] - depending on severity
