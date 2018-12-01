@@ -1,7 +1,7 @@
 # Recyclopedia Bug / Issue Tracker
 ### Featuring GitHub Issues
 
-This is a repository detected solely to bug and issue tracking within Recyclopedia. To use the system:
+This is a repository dedicated solely to bug and issue tracking within Recyclopedia. To use the system:
 * Click on the **Issues** tab above.
 * To submit a new bug report click the **New Issue** button.
 * When filing a report, please provide the general information
